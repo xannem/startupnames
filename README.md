@@ -1,5 +1,4 @@
-#startup-names
+Startup-names
 Startup Name Generator
 
-##Built with
-Flutter (https://github.com/flutter/flutter)
+Built with Flutter (https://github.com/flutter/flutter)
